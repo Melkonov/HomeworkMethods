@@ -18,7 +18,7 @@ namespace P01BiggerNumber
             }
             return max;
         }
-
+        // change for SVN
         static void Main()
         {
             int number1 = int.Parse(Console.ReadLine());
