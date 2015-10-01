@@ -1,0 +1,6 @@
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P03FirstLargerThanNeighbours\bin\Debug\P03FirstLargerThanNeighbours.exe.config
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P03FirstLargerThanNeighbours\bin\Debug\P03FirstLargerThanNeighbours.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P03FirstLargerThanNeighbours\bin\Debug\P03FirstLargerThanNeighbours.pdb
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P03FirstLargerThanNeighbours\obj\Debug\P03LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P03FirstLargerThanNeighbours\obj\Debug\P03FirstLargerThanNeighbours.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P03FirstLargerThanNeighbours\obj\Debug\P03FirstLargerThanNeighbours.pdb

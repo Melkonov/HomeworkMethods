@@ -1,0 +1,6 @@
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P04FirstLargerThanNeighbours\bin\Debug\P04FirstLargerThanNeighbours.exe.config
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P04FirstLargerThanNeighbours\bin\Debug\P04FirstLargerThanNeighbours.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P04FirstLargerThanNeighbours\bin\Debug\P04FirstLargerThanNeighbours.pdb
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P04FirstLargerThanNeighbours\obj\Debug\P04FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P04FirstLargerThanNeighbours\obj\Debug\P04FirstLargerThanNeighbours.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P04FirstLargerThanNeighbours\obj\Debug\P04FirstLargerThanNeighbours.pdb

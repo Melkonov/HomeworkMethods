@@ -1,0 +1,6 @@
+c:\users\carlo\documents\visual studio 2013\Projects\HomeworkMethods\P01BiggerNumber\bin\Debug\P01BiggerNumber.exe.config
+c:\users\carlo\documents\visual studio 2013\Projects\HomeworkMethods\P01BiggerNumber\obj\Debug\P01BiggerNumber.csprojResolveAssemblyReference.cache
+c:\users\carlo\documents\visual studio 2013\Projects\HomeworkMethods\P01BiggerNumber\bin\Debug\P01BiggerNumber.exe
+c:\users\carlo\documents\visual studio 2013\Projects\HomeworkMethods\P01BiggerNumber\bin\Debug\P01BiggerNumber.pdb
+c:\users\carlo\documents\visual studio 2013\Projects\HomeworkMethods\P01BiggerNumber\obj\Debug\P01BiggerNumber.exe
+c:\users\carlo\documents\visual studio 2013\Projects\HomeworkMethods\P01BiggerNumber\obj\Debug\P01BiggerNumber.pdb

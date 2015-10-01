@@ -1,0 +1,6 @@
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P02NumbersLastDigit\bin\Debug\P02NumbersLastDigit.exe.config
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P02NumbersLastDigit\bin\Debug\P02NumbersLastDigit.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P02NumbersLastDigit\bin\Debug\P02NumbersLastDigit.pdb
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P02NumbersLastDigit\obj\Debug\P02LastDigitOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P02NumbersLastDigit\obj\Debug\P02NumbersLastDigit.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P02NumbersLastDigit\obj\Debug\P02NumbersLastDigit.pdb

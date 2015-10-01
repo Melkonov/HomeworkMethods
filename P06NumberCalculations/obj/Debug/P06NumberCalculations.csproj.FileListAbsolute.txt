@@ -1,0 +1,6 @@
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P06NumberCalculations\bin\Debug\P06NumberCalculations.exe.config
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P06NumberCalculations\bin\Debug\P06NumberCalculations.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P06NumberCalculations\bin\Debug\P06NumberCalculations.pdb
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P06NumberCalculations\obj\Debug\P06NumberCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P06NumberCalculations\obj\Debug\P06NumberCalculations.exe
+C:\Users\Carlo\documents\visual studio 2013\Projects\HomeworkMethods\P06NumberCalculations\obj\Debug\P06NumberCalculations.pdb
